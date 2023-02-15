@@ -2,9 +2,6 @@ package ui;
 
 import com.customer.app.controller.CustomerLoginController;
 import com.customer.app.dto.CustomerLoginDTO;
-/**
-This page is used for implementing UI logic. This is developed in Java but in real project we have to use angular.
-**/
 public class LoginPage {
 
     public static void main(String args[]){
